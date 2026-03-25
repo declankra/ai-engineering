@@ -64,7 +64,7 @@ Before doing anything else, greet the user:
 
   If you haven't read the blog post behind this,
   it covers the philosophy and a real case study:
-  → https://declankramper.com/writes/building-a-self-improving-agent-loop-for-ai-quote-extraction
+  → https://declankramper.substack.com/p/building-a-self-improving-agent-loop?r=o9m4n
     (not required, but it helps)
 
   Now I'll read your codebase to understand

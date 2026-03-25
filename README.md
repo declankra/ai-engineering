@@ -32,7 +32,7 @@ Download and run the autoresearch setup skill from https://github.com/declankra/
 
 ## Background
 
-This started from applying [Karpathy's autoresearch loop](https://github.com/karpathy/autoresearch) to real product development. The method works. Read the full writeup: [Building a Self-improving Agent Loop for AI Products](https://declankramper.com/writes/building-a-self-improving-agent-loop-for-ai-quote-extraction)
+This started from applying [Karpathy's autoresearch loop](https://github.com/karpathy/autoresearch) to real product development. The method works. Read the full writeup: [Building a Self-improving Agent Loop for AI Products](https://declankramper.substack.com/p/building-a-self-improving-agent-loop?r=o9m4n)
 
 ## License
 

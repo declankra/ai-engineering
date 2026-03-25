@@ -6,6 +6,8 @@ Learnings on building AI products in an AI-native way.
 
 - **[`/autoresearch-setup`](./autoresearch/)** — Interactive guide that determines whether your AI product needs a self-improving optimization loop, and if it does, walks you through setting one up. Identifies your riskiest AI surface, verifies you have real data, helps you define the right metric, builds your program file, and scaffolds the full loop infrastructure. Opinionated — it will tell you no if you're not ready.
 
+More coming.
+
 ## Setup Autoresearch
 
 ### Claude Code
